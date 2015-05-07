@@ -3,7 +3,7 @@ var express = require("express"),
 	Crawler = require("simplecrawler"),
 	StringDecoder = require("string_decoder").StringDecoder
 
-Crawler.crawl("http://example.com/")
+Crawler.crawl("https://www.github.com/")
     .on("fetchcomplete", function(queueItem, responseBuffer, response){
         console.log("Whole item", queueItem);
         console.log("RESPONSEBUFFER", responseBuffer);
