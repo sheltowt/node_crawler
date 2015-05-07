@@ -1,0 +1,11 @@
+{
+  "name": "node_crawler",
+  "description": "example crawler using node",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Bill Shelton",
+  "dependencies": {
+    "express": "^4.12.3",
+    "simplecrawler": "^0.5.2"
+  }
+}
