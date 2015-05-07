@@ -5,6 +5,7 @@
   "private": false,
   "author": "Bill Shelton",
   "dependencies": {
+    "cheerio": "^0.19.0",
     "express": "^4.12.3",
     "simplecrawler": "^0.5.2"
   }
