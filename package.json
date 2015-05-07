@@ -6,7 +6,9 @@
   "author": "Bill Shelton",
   "dependencies": {
     "cheerio": "^0.19.0",
+    "crawler": "^0.4.3",
     "express": "^4.12.3",
-    "simplecrawler": "^0.5.2"
+    "simplecrawler": "^0.5.2",
+    "string_decoder": "^0.10.31"
   }
 }
